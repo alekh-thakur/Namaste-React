@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a namaste react course",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekh-thakur/Namaste-React.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "alekh"
+  ],
+  "author": "Alekh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekh-thakur/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/alekh-thakur/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "@parcel/watcher": "^2.5.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
